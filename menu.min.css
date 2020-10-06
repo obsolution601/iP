@@ -1,0 +1,10 @@
+body {
+    background-image: url(iphone.jpg);
+    background-size: cover;
+    padding: 0;
+    margin: 0
+}
+
+.menu-bar {
+    background-color: #9400d3
+}
